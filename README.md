@@ -1,6 +1,6 @@
 ## _Oreochromis tanganicae_
 
-That is my favourite fish. It is a tilapia species which is endemic to Lake Tanganyika. In swahili it is known as *"ngege"*.   
+That is my favourite fish. It is a tilapia species which is endemic to Lake Tanganyika. In Swahili it is known as *"ngege"*.   
 The species belongs to the _Oreochromis_ genus which is the second most farmed fish family in the world (just behind carps).
 
 ![_oreochromis tanganicae_](https://upload.wikimedia.org/wikipedia/commons/7/7e/Oreochromis_tanganicae_%28G%C3%BCnther%29.jpg)
