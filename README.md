@@ -8,4 +8,4 @@ The species belongs to the _Oreochromis_ genus which is the second most farmed f
 
 We just started a pilot project to farm these beautiful fish to foster food security and provide an income stream to farmers and entrepreneurs in the Lake Tanganyika Region.
 
-If you are interested in what we do, follow us on [Facebook](https://www.facebook.com/BongoFishTanzania/)
+"We" is our company BongoFISH headquartered in Dar es Salaam, Tanzania. If you are interested in what we do, follow us on [Facebook](https://www.facebook.com/BongoFishTanzania/).
