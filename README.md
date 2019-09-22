@@ -1,4 +1,4 @@
-#Sooo Serious
+# Sooo Serious
 
 ## _Oreochromis tanganicae_
 
@@ -13,13 +13,13 @@ We just started a pilot project to farm these beautiful fish to foster food secu
 "We" is our company BongoFISH headquartered in Dar es Salaam, Tanzania. If you are interested in what we do, follow us on [Facebook](https://www.facebook.com/BongoFishTanzania/).
 
 
-#Random
+# Random
 
-##Blubiblaaa
-*### Header 1
- *#### Header 1.1
-*###Header 2
- *#### Header 2.1
+## Blubiblaaa
+* ### Header 1
+ * #### Header 1.1
+* ### Header 2
+ * #### Header 2.1
 
 > Hakuna matata na tukipata matata tutatatua tatizo lakini kichizi kama ndizi mbivu!
 
